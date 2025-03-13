@@ -48,3 +48,9 @@ The **Startup Landing Page** includes:
 - Animated transitions for buttons and text.
 - Form validation for email sign-ups.
 - Additional event details and schedule section.
+
+---
+
+### 🖼️ Screenshot
+
+![Landing Page Screenshot](https://github.com/mohana-g/basic_startup_landing_page/raw/main/Website%20Screenshot/image.png)
