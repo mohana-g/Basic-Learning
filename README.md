@@ -53,4 +53,4 @@ The **Startup Landing Page** includes:
 
 ### 🖼️ Screenshot
 
-![Landing Page Screenshot](https://github.com/mohana-g/basic_startup_landing_page/raw/main/Website%20Screenshot/image.png)
+![Landing Page Screenshot](https://raw.githubusercontent.com/mohana-g/basic_startup_landing_page/main/Website%20Screenshot/Screenshot%20(1260).png)
